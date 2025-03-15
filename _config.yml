@@ -1,0 +1,8 @@
+theme: minima
+plugins:
+  - jekyll-feed
+
+title: 我的技术博客
+description: 记录学习与成长的技术笔记
+baseurl: /
+url: https://yourusername.github.io
